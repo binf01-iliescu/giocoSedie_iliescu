@@ -1,5 +1,5 @@
 
-
+import java.io.*;
 import java.util.logging.Logger;
 
 /**
@@ -13,9 +13,10 @@ public class TestGiocoSedie {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         Posto sedie[] = new Posto[NUMSEDIE];
-
+        PrintStream ps = new PrintStream(new File("risultato.txt"));
+        System.setOut(ps);
 	for (int k = 0; k < sedie.length; k++)
 		sedie[k] = new Posto();
 

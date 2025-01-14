@@ -1,0 +1,23 @@
+Sono il Thread Thread-12. Sono riuscito a sedermi sul posto 1
+Sono il Thread Thread-13. Sono riuscito a sedermi sul posto 0
+Sono il Thread Thread-16. Sono riuscito a sedermi sul posto 2
+***000000000000
+Sono il Thread Thread-11. Sono riuscito a sedermi sul posto 3
+Sono il Thread Thread-4. Sono riuscito a sedermi sul posto 4
+*****0000000000
+Sono il Thread Thread-9. Sono riuscito a sedermi sul posto 5
+Sono il Thread Thread-8. Sono riuscito a sedermi sul posto 6
+Sono il Thread Thread-2. Sono riuscito a sedermi sul posto 7
+Sono il Thread Thread-6. Sono riuscito a sedermi sul posto 8
+Sono il Thread Thread-15. Sono riuscito a sedermi sul posto 9
+Sono il Thread Thread-3. Sono riuscito a sedermi sul posto 10
+Sono il Thread Thread-14. Sono riuscito a sedermi sul posto 11
+************000
+************000
+************000
+Sono il Thread Thread-10. Sono riuscito a sedermi sul posto 12
+Sono il Thread Thread-5. Sono riuscito a sedermi sul posto 13
+**************0
+Sono il Thread Thread-7. Sono riuscito a sedermi sul posto 14
+Sono il Thread Thread-1. Ho perso :((((
+***************
